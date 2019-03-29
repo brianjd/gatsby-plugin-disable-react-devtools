@@ -1,4 +1,4 @@
-import React from 'react';
+const React = require('react');
 
 exports.onRenderBody = ({ setHeadComponents }) => {
   const snippet = `"object"==typeof window.__REACT_DEVTOOLS_GLOBAL_HOOK__&&(__REACT_DEVTOOLS_GLOBAL_HOOK__.inject=function(){})`
