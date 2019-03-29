@@ -9,7 +9,7 @@
   "repository": "https://github.com/brianjd/gatsby-plugin-disable-react-devtools",
   "license": "MIT",
   "scripts": {
-    "build": "babel src --out-dir dist --ignore *.test.js",
+    "build": "babel src --out-dir . --ignore *.test.js",
     "commit": "git-cz",
     "format": "prettier --write 'src/**/*.js' 'README.md'",
     "prepublish": "npm run build",
