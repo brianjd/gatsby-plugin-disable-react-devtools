@@ -21,7 +21,8 @@
     "travis-deploy-once": "travis-deploy-once"
   },
   "peerDependencies": {
-    "gatsby": "^2.3.3"
+    "gatsby": "^2.3.3",
+    "react": "^16.8.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
