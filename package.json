@@ -21,7 +21,7 @@
     "travis-deploy-once": "travis-deploy-once"
   },
   "peerDependencies": {
-    "gatsby": "^2.3.3",
+    "gatsby": "^2.0.0",
     "react": "^16.8.6"
   },
   "devDependencies": {
