@@ -1,6 +1,6 @@
 const { onRenderBody } = require(`../gatsby-ssr`)
 
-define('gatsby-plugin-disable-react-devtools', () => {
+describe('gatsby-plugin-disable-react-devtools', () => {
   it('adds script if in production', () => {
 
   });
