@@ -6,7 +6,6 @@
   "bugs": {
     "url": "https://github.com/brianjd/gatsby-plugin-disable-react-devtools/issues"
   },
-  "main": "dist/index.js",
   "repository": "https://github.com/brianjd/gatsby-plugin-disable-react-devtools",
   "license": "MIT",
   "scripts": {
