@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-disable-react-devtools",
-  "description": "A plugin to disable React Dev Tools",
+  "description": "A plugin to disable React Dev Tools in production",
   "version": "0.0.0-development",
   "author": "Brian Doyle <brian@tf83.com>",
   "bugs": {

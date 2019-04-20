@@ -3,4 +3,4 @@
 
 ## Description
 
-A plugin to disable React Dev Tools
+A plugin to disable React Dev Tools in production.
